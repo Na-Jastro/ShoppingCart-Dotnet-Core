@@ -1,0 +1,2 @@
+# ShoppingCart-Dotnet-Core
+.Mapped
